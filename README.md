@@ -1,2 +1,5 @@
 # Titanic-Machine-Learning-from-Disaster-Kaggle
-The Titanic challenge on Kaggle is a competition in which the task is to predict the survival or the death of a given passenger based on a set of variables describing him such as his age, his sex, or his passenger class on the boat. I have been playing with the Titanic dataset for a while, and I have recently achieved an accuracy score of 0.8134 on the public leaderboard. As I'm writing this post, I am ranked among the top 9% of all Kagglers: More than 4540 teams are currently competing.
+The Titanic challenge in Kaggle is a competition in which the task is to predict the survival or the death of a given passenger based on a set of features. I am new in data science & machine learning field and I made this little project as a start off to have a better hands-on understanding of ML. I managed to achieved 0.78947 on the public leaderboard of this competition and my goal is to get a better score.
+
+  This project requires some data cleaning as not all of the given data are useful and the right ML algorithm to take the best possible predictions. I used the most common ML algorithms (linear regression, k-means, svc etc.) and  I observed that random forest classifier is the best ML algorithm for this problem, and then using grid search method I achieved a better score by optimizing the parameters of the model.
+
